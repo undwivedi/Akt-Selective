@@ -1,7 +1,7 @@
 # Akt-Selective
 
 SARK-Tool for Akt-selective Binders:
-This SARK-Tool is a JavaScript Application for Hybrid Structure-Activity-Relationship based Lead-Indentification for Drug-Repurposing and Drug-Personalisation targeting Akt in Lung Cancer cells as A549.
+This SARK-Tool is a JavaScript Application for identifying the selectivity of small molecule towards Akt binding i.e. targeting Akt.
 
 Requirments: Your browser should allow the JavaScript.
 
